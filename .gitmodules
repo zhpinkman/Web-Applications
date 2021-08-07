@@ -1,0 +1,18 @@
+[submodule "IOT_front"]
+	path = IOT_front
+	url = git@github.com:zhpinkman/IOT_front.git
+[submodule "OAUTH-client"]
+	path = OAUTH-client
+	url = git@github.com:zhpinkman/OAUTH-client.git
+[submodule "image-processing-front-end"]
+	path = image-processing-front-end
+	url = git@github.com:zhpinkman/image-processing-front-end.git
+[submodule "angular_practice"]
+	path = angular_practice
+	url = git@github.com:zhpinkman/angular_practice.git
+[submodule "tomcat7"]
+	path = tomcat7
+	url = git@github.com:zhpinkman/tomcat7.git
+[submodule "angular-project-startup"]
+	path = angular-project-startup
+	url = git@github.com:zhpinkman/angular-project-startup.git
