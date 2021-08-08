@@ -37,3 +37,6 @@
 [submodule "Vamegh"]
 	path = Vamegh
 	url = https://github.com/zhpinkman/Vamegh
+[submodule "Task-Manager"]
+	path = Task-Manager
+	url = https://github.com/zhpinkman/Task-Manager
