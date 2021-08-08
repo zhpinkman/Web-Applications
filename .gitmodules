@@ -16,3 +16,6 @@
 [submodule "angular-project-startup"]
 	path = angular-project-startup
 	url = git@github.com:zhpinkman/angular-project-startup.git
+[submodule "to-do-app"]
+	path = to-do-app
+	url = https://github.com/zhpinkman/to-do-app
