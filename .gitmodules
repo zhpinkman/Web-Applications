@@ -22,3 +22,6 @@
 [submodule "data-science-michigan"]
 	path = data-science-michigan
 	url = https://github.com/zhpinkman/data-science-michigan
+[submodule "IOT"]
+	path = IOT
+	url = git@github.com:zhpinkman/IOT.git
