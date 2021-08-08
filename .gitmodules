@@ -25,3 +25,15 @@
 [submodule "IOT"]
 	path = IOT
 	url = git@github.com:zhpinkman/IOT.git
+[submodule "Habib"]
+	path = Habib
+	url = https://github.com/zhpinkman/Habib/
+[submodule "Veis"]
+	path = Veis
+	url = https://github.com/zhpinkman/Veis/
+[submodule "Farah"]
+	path = Farah
+	url = https://github.com/zhpinkman/Farah/
+[submodule "Vamegh"]
+	path = Vamegh
+	url = https://github.com/zhpinkman/Vamegh
